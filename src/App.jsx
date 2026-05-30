@@ -5,7 +5,7 @@ import { createClient } from "@supabase/supabase-js";
 // Initialize Supabase Client
 // Note: You will need to replace these with your actual Supabase URL and Anon Key
 const supabaseUrl = "https://thhwhrneubzztqxhqsxn.supabase.co";
-const supabaseKey = "sb_publishable_r19Jj2_cO-e1dtLWKjq5cQ_ldmHIAqv";
+const supabaseKey = "sb_secret_PmS_kFxq9Du25HDQ6R7udA_MSkrPiyb";
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 // ─── Storage ──────────────────────────────────────────────────────────────────
